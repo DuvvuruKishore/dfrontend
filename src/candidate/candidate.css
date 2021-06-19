@@ -1,0 +1,15 @@
+.posted__jobs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: wheat;
+
+}
+
+.card__jobs{
+    width: 500px;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+}
